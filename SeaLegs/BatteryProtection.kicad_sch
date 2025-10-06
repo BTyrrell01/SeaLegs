@@ -1,0 +1,12 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "f0ea234b-8c96-49ba-9d4d-726ebb2391a6")
+	(paper "A4")
+	(title_block
+		(title "LDO")
+		(company "Benjamin Tyrrell-Davis")
+	)
+	(lib_symbols)
+)
