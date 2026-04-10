@@ -1,0 +1,22 @@
+*==================================================================================*
+|                                                                                  |
+|                                   REQUIREMENTS                                   |
+|                                                                                  |
+*==================================================================================*
+
+* The watch shall be rechargeable from 0% to 100% in less than 2 hrs.
+* The watch shall be allow for firmware updates over the air (OTA).
+* The watch shall have a battery life of at least 24hrs with an activity in progress.
+** This includes GPS enabled, sensors and inputs active.
+** Streaming music should not decrease the battery life by more than 25%.
+* The watch shall sync activities wirelessly with an external application via bluetooth.
+* The watch should be ISO 6425 certified.
+* The watch shall have no more than 5 buttons.
+* The watch shall be able to stream music to bluetooth headphones.
+* The watch shall be no more than 80g with band included.
+* The watch should not have a silicone band.
+* Watch bands should be swappable with a common (but potentially "proprietary") interface.
+* The watch should be available in several different colors.
+* Charging the watch should be inductive or magsafe.
+* The watch should not have a touchscreen.
+ 
