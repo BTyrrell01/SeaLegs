@@ -1,6 +1,6 @@
 *==================================================================================*
 |                                                                                  |
-|                                   REQUIREMENTS                                   |
+|                               HARDWARE REQUIREMENTS                              |
 |                                                                                  |
 *==================================================================================*
 
@@ -20,12 +20,12 @@
 * Charging the watch should be inductive or magsafe.
 * The watch should not have a touchscreen.
 * The watch should store 24 hrs of music.
-* The watch should be able to count steps
-* The watch should be able to measure pulse oxygen
-* The watch should be able to measure heart rate
-* The watch should be able to connect to GPS in less than 30 seconds cold start
-* The watch should measure temperature
-* The watch should accurately determine depth while diving up to 40m
-* The watch should accurately determine barometric pressure and altitude up to 30000ft
-* The watch should have a compass for determining heading
-* The watch should be able to store and view a map(s) and guide the user along the route
+* The watch should be able to count steps.
+* The watch should be able to measure pulse oxygen.
+* The watch should be able to measure heart rate.
+* The watch should be able to connect to GPS in less than 30 seconds cold start.
+* The watch should measure temperature.
+* The watch should accurately determine depth while diving up to 40m.
+* The watch should accurately determine barometric pressure and altitude up to 30000ft.
+* The watch should have a compass for determining heading.
+* The watch should be able to store and view a map(s) and guide the user along the route.
