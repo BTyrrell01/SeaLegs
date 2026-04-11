@@ -1,7 +1,7 @@
 (kicad_sch
-	(version 20250114)
+	(version 20260306)
 	(generator "eeschema")
-	(generator_version "9.0")
+	(generator_version "10.0")
 	(uuid "b358fa4f-8f13-49ea-bd67-d5db91173379")
 	(paper "A4")
 	(title_block
@@ -22,11 +22,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 194 0.2500)
+			(color 0 0 194 0.25)
 		)
 		(uuid "1a82d888-4623-4af5-9a4e-03b9819d6f97")
 		(property "Sheetname" "IMU"
 			(at 179.07 49.0724 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36,6 +38,8 @@
 		)
 		(property "Sheetfile" "STM32.kicad_sch"
 			(at 179.07 64.8466 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -114,11 +118,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "a272ac9a-684d-48a8-9855-684130a4cd0b")
 		(property "Sheetname" "STM32"
 			(at 133.604 76.7584 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -128,6 +134,8 @@
 		)
 		(property "Sheetfile" "STM32.kicad_sch"
 			(at 133.604 111.0746 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -155,11 +163,13 @@
 			(type solid)
 		)
 		(fill
-			(color 194 0 0 0.2500)
+			(color 194 0 0 0.25)
 		)
 		(uuid "be463fd8-22b0-4a54-b91f-9ce45cad8930")
 		(property "Sheetname" "Power"
 			(at 28.956 37.338 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 4 4)
@@ -169,6 +179,8 @@
 		)
 		(property "Sheetfile" "Power.kicad_sch"
 			(at 18.796 51.6386 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)

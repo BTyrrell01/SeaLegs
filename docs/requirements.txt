@@ -19,4 +19,4 @@
 * The watch should be available in several different colors.
 * Charging the watch should be inductive or magsafe.
 * The watch should not have a touchscreen.
- 
+* The watch should store 24 hrs of music. 
