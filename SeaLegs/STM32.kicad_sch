@@ -1884,10 +1884,6 @@
 		)
 		(instances
 			(project "SeaLegs"
-				(path "/b358fa4f-8f13-49ea-bd67-d5db91173379/1a82d888-4623-4af5-9a4e-03b9819d6f97"
-					(reference "U4")
-					(unit 1)
-				)
 				(path "/b358fa4f-8f13-49ea-bd67-d5db91173379/a272ac9a-684d-48a8-9855-684130a4cd0b"
 					(reference "U1")
 					(unit 1)
@@ -1983,10 +1979,6 @@
 		)
 		(instances
 			(project "SeaLegs"
-				(path "/b358fa4f-8f13-49ea-bd67-d5db91173379/1a82d888-4623-4af5-9a4e-03b9819d6f97"
-					(reference "J3")
-					(unit 1)
-				)
 				(path "/b358fa4f-8f13-49ea-bd67-d5db91173379/a272ac9a-684d-48a8-9855-684130a4cd0b"
 					(reference "J2")
 					(unit 1)
