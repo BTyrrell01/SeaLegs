@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="Q3WwTuGCmdNWlt00-iV6">
-    <mxGraphModel dx="688" dy="447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1003" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -15,7 +15,7 @@
         <mxCell id="h2kge1uLGoelDCF7felu-7" edge="1" parent="1" source="h2kge1uLGoelDCF7felu-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="h2kge1uLGoelDCF7felu-2" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h2kge1uLGoelDCF7felu-21" connectable="0" parent="h2kge1uLGoelDCF7felu-7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="SPI" vertex="1">
+        <mxCell id="h2kge1uLGoelDCF7felu-21" connectable="0" parent="h2kge1uLGoelDCF7felu-7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="I2C" vertex="1">
           <mxGeometry relative="1" x="-0.3929" y="-2" as="geometry">
             <mxPoint x="2" y="8" as="offset" />
           </mxGeometry>
@@ -55,10 +55,18 @@
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="h2kge1uLGoelDCF7felu-25" edge="1" parent="1" source="h2kge1uLGoelDCF7felu-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" target="h2kge1uLGoelDCF7felu-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h2kge1uLGoelDCF7felu-26" connectable="0" parent="h2kge1uLGoelDCF7felu-25" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="I2C" vertex="1">
+          <mxGeometry relative="1" x="0.0667" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="h2kge1uLGoelDCF7felu-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="STM32WB55&lt;br&gt;7mm x 7mm 0.5mm pitch BGA" vertex="1">
           <mxGeometry height="60" width="120" x="360" y="350" as="geometry" />
         </mxCell>
-        <mxCell id="h2kge1uLGoelDCF7felu-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="GPS" vertex="1">
+        <mxCell id="h2kge1uLGoelDCF7felu-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="GPS&lt;br&gt;MAX-M10M-20B" vertex="1">
           <mxGeometry height="60" width="120" x="360" y="450" as="geometry" />
         </mxCell>
         <mxCell id="h2kge1uLGoelDCF7felu-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="4x external interface buttons" vertex="1">
@@ -82,8 +90,11 @@
         <mxCell id="h2kge1uLGoelDCF7felu-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="linear resonant actuator (LRA)" vertex="1">
           <mxGeometry height="60" width="120" x="360" y="160" as="geometry" />
         </mxCell>
-        <mxCell id="h2kge1uLGoelDCF7felu-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Display and backlight" vertex="1">
+        <mxCell id="h2kge1uLGoelDCF7felu-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="LS013B7DH03 Display with Azumo front light" vertex="1">
           <mxGeometry height="60" width="120" x="520" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="h2kge1uLGoelDCF7felu-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Compass" vertex="1">
+          <mxGeometry height="60" width="120" x="200" y="250" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
